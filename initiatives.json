@@ -1,0 +1,130 @@
+{
+    "cards": [
+        {
+            "url": "https://university-consortium-for-quality-online-learning-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/e510fdefc0a045c88aa207df05b4381f/info/thumbnail/thumbnail1682592301337.png",
+            "title": "University Consortium for Quality Online Learning",
+            "description": "By the Abdulla Al Ghurair Foundation in partnership with the UAE Ministry of Education and nine leading universities in the United Arab Emirates. UCQOL aspires to strengthen the online education ecosystem and offer innovative and comprehensive educational opportunities for Emirati and Arab students. ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://vofg-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/d0c19e6a7dd9421b85b661b25c627778/info/thumbnail/thumbnail1682592318793.png",
+            "title": "VOFG",
+            "description": "By Emirates Literature Foundation. This page showcases the Voices of Future Generations initiative which encourages children to explore the United Nations Sustainable Development Goals and promotes Children’s Rights through creative writing.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://global-councils-on-sdgs-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/20cc39ac538445859b51dfac389853c6/info/thumbnail/thumbnail1682591895683.png",
+            "title": "Global Councils on SDGs ",
+            "description": "By the Secretariat of the UAE National Committee on SDGs. This page showcases success stories from the first term of the Global Councils on SDGs Initiative.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://dubai-cares-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/bfeccb25eed34422b969061d3cfc4348/info/thumbnail/thumbnail1682592393232.png",
+            "title": " Breaking the Cycle of Poverty Through Quality Education ",
+            "description": "By Dubai Cares. This page showcases a selection of initiatives and projects by Dubai Cares to break the cycle of poverty and ensure  all children and youth have access to quality education",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://al-ghurair-young-thinkers-program-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/6725c8d8d5c449478c050596f5264f64/info/thumbnail/thumbnail1682591862321.png",
+            "title": "Al Ghurair Young Thinkers Program ",
+            "description": "By Abdulla Al Ghurair Foundation for Education (AGFE).  Al Ghurair Young Thinkers Program (YTP) is a digital platform designed to support Emirati and Arab youth develop the skills they need to succeed at university and in the workplace. ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://zayed-higher-organization-for-people-of-determination-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/57b332ceb9a44d19a159a9d8e82587b6/info/thumbnail/thumbnail1682921366407.png",
+            "title": "Zayed Higher Organization for People of Determination Initiatives ",
+            "description": "By Zayed Higher Organization for People of Determination (ZHO). \\nThis initiative showcase the efforts done by ZHO in Abu Dhabi, UAE to Support people of determination. ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://tipmoeconomy-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/841901d78c6b42f6a0503178a8ffe175/info/thumbnail/thumbnail1682921301655.png",
+            "title": " Technology Innovation Pioneers",
+            "description": "By Ministry of Economy. The Technology Innovation Pioneers  (TIP) initiative was launched with the aim to find real solutions in solving the worlds greatest challenges. ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://moccae-national-climate-change-adaptation-program-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/783cbcb9c41b43408bee90176431721c/info/thumbnail/thumbnail1682590506308.png",
+            "title": "National Climate Change Adaptation Program ",
+            "description": "By Ministry of Climate Change and Environment. The National Climate Change Adaptation Program aims to assess the impacts of climate change on key sectors, identify risks that demand urgent action and develop well-informed adaptation measures.  ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://the-uae-and-covid-19-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/340d5708963649638e90cd6b61cca930/info/thumbnail/thumbnail1682921252566.png",
+            "title": "The UAE and COVID -19 ",
+            "description": "The UAE Approach Towards Curbing the Spread of  COVID-19 by Using Data and Technology ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://moid-sustainable-infrastructure-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/eb5220a57f6748bfb9ba086a8a32c572/info/thumbnail/thumbnail1682591879246.png",
+            "title": "Sustainable Infrastructure Initiative ",
+            "description": "By Ministry of Energy and Infrastructure (MOEI). The Sustainable Infrastructure initiative aims to  support the green economy system and sustainable development in order to position the United Arab Emirates (UAE) as a global leader in this field.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://integrated-waste-management-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/b1e75a5e04d94529a2475d271ec092f2/info/thumbnail/thumbnail1682591776113.png",
+            "title": "Integrated Waste Management in the UAE",
+            "description": "By Ministry Climate Change and Environment. The United Arab Emirates is working towards achieving an integrated waste management by proposing and developing waste policies and legislations. ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://environmental-performance-enhancement-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/0814f641dab942689a8a281c5efc4736/info/thumbnail/thumbnail1682590926601.png",
+            "title": "Environmental Performance Enhancement",
+            "description": "By  Ministry of Climate Change and Environment. This Initiative was launched in 2017 with the aim of developing an integrated system to improve and strengthen environmental performance.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://makom-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/b25d9f01b5424e81ac9d8592c5d24a04/info/thumbnail/thumbnail1682590482644.png",
+            "title": " Makom for a healthier life",
+            "description": "By Ministry of Health and Prevention.  Makom initiative was launched with the aim to increase the proportion of UAE residents who adopt healthy behaviors and reduce unhealthy behaviors through four main programs.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://uae-aid-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/abac5066b1284447a7226c7bdf30e4d6/info/thumbnail/thumbnail1682590555583.png",
+            "title": "UAE Foreign Aid",
+            "description": "By Ministry of  Foreign Affairs and International Cooperation. The purpose of UAE aid is to increase international peace and stability through the eradication of poverty, while guaranteeing improvements in the living standards of individuals. ",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://rehabilitation-of-coastal-and-marine-habitat-in-uae-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/c0f4ea379dd4400f94406983cd0a78a8/info/thumbnail/thumbnail1682591794355.png",
+            "title": "Rehabilitation of Coastal and Marine Habitat in UAE ",
+            "description": "By Ministry of Climate Change and Environment. This initiative focuses on rehabilitating the degraded coastal areas through the restoration of coral reefs, cultivation of mangroves and deploying artificial reefs.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://uae-air-quality-index-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/c111a9e2bb1c494f9bc3a31907b04eb4/info/thumbnail/thumbnail1682578696920.png",
+            "title": "UAE Air Quality Index",
+            "description": "By Ministry Climate Change and Environment. The UAE Air Quality Index is an AI platform that displays real-time, highly accurate air quality readings based on satellite data.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://uae-sustainable-wildlife-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/8aa9dd28f8e44832b4349727897f6162/info/thumbnail/thumbnail1682591447582.png",
+            "title": "UAE Sustainable Wildlife",
+            "description": "By  Ministry Climate Change and Environment. This initiative aims to ensure the sustainability of wildlife in the UAE and raise public awareness on issues related to biodiversity,  as well as contributing to the achievements of international targets.",
+            "buttonText": "Explore"
+        },
+        {
+            "url": "https://dpworld-gep-fcsa.hub.arcgis.com/",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/35ee3547d1554fe09a42201553b652b4/info/thumbnail/thumbnail1682578618376.png",
+            "title": "Global Education Programme Initiative",
+            "description": "By DP World. The Global Education Programme is designed to instil awareness about the port operations and the value of trade while also addressing the school’s regular curriculum.",
+            "buttonText": "Explore"
+        }
+    ]
+}

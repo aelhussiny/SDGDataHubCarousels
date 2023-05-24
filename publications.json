@@ -1,0 +1,84 @@
+{
+    "cards": [
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/9d29d8fa7eea4095ac7b862faccfccfe",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/9d29d8fa7eea4095ac7b862faccfccfe/info/thumbnail/thumbnail1658830911826.png",
+            "title": "2022: UAE and the 2030 Agenda for Sustainable Development: Excellence in Implementation - Voluntary National Review",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/2713cd991a374f13a79bd607277132c0",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/2713cd991a374f13a79bd607277132c0/info/thumbnail/thumbnail1658830174172.png",
+            "title": "2022: Global Councils on SDGs 2021_2023 Progress Report",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/d3fc8eb420d340f68fad1a0b8c98587f",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/d3fc8eb420d340f68fad1a0b8c98587f/info/thumbnail/thumbnail1658830063212.png",
+            "title": "2021: Accelerating achievement of the SDGs in the UAE - A blueprint for public/private data sharing partnerships",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/f8a54c6908e8471985b7da5e983e2b88",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/f8a54c6908e8471985b7da5e983e2b88/info/thumbnail/thumbnail1658830924532.png",
+            "title": "2020: UAE and the 2030 Agenda for Sustainable Development: Excellence in Implementation - Fast Forwarding a Decade of Action",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/45a74195d4d84765bb84e8c8ee48ffe6",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/45a74195d4d84765bb84e8c8ee48ffe6/info/thumbnail/thumbnail1658830187696.png",
+            "title": "2020: The State of Arab Youth on the SDGs",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/2e9434a17b254cf886238e735da9d377",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/2e9434a17b254cf886238e735da9d377/info/thumbnail/thumbnail1658830042207.png",
+            "title": "2019: Achieving the SDGs in the UAE_ Private Sector Contribution",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/4ee0ec7456d14110a9fcd4963ee274ee",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/4ee0ec7456d14110a9fcd4963ee274ee/info/thumbnail/thumbnail1658830999293.png",
+            "title": "2019: Our World Through the Lens, Special Publication for the SDG Photography Award",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/7ac80aef93e84a4ead6c5e963735134e",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/7ac80aef93e84a4ead6c5e963735134e/info/thumbnail/thumbnail1658830976206.png",
+            "title": "2018: UAE and the 2030 Agenda for Sustainable Development: Excellence in Implementation - Executive Summary Voluntary National Review",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/89553619a43b41e9bc082c0601cd5e5c",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/89553619a43b41e9bc082c0601cd5e5c/info/thumbnail/thumbnail1658830936064.png",
+            "title": "2018: UAE and the 2030 Agenda for Sustainable Development - Excellence in Implementation",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/documents/9049d1f8613549e398e81ea6415f5457",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/9049d1f8613549e398e81ea6415f5457/info/thumbnail/thumbnail1658830986971.png",
+            "title": "2017: UAE and the 2030 Agenda for Sustainable Development - Excellence in Implementation",
+            "description": "",
+            "buttonText": "View",
+            "buttonType": "outline"
+        }
+    ]
+}

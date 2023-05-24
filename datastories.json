@@ -1,0 +1,107 @@
+{
+    "cards": [
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/4271456c4f9046e989dddbe7bec4df59",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/4271456c4f9046e989dddbe7bec4df59/info/thumbnail/thumbnail1649315276591.png",
+            "title": "UAE Foreign Aid Disbursement",
+            "description": "Mapping nations received disbursements from UAE across multiple aid categories since 1970.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/f70c1163532349b9a4c088363554bf23",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/f70c1163532349b9a4c088363554bf23/info/thumbnail/thumbnail1644816975553.png",
+            "title": "Green Areas Growth in UAE",
+            "description": "This data story seeks to capture patterns of growth in UAE’s green area since 1975.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/1040601a6b454009bbd9a24c7f5ee654",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/1040601a6b454009bbd9a24c7f5ee654/info/thumbnail/thumbnail1609933821738.png",
+            "title": "UAE Urban Growth through Night Lights and Satellite Imagery",
+            "description": "This data story seeks to capture patterns of growth and development in UAE’s urban life, using different types of satellite imagery.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/8737893b62bc4479a3bc322bbb829d2c",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/8737893b62bc4479a3bc322bbb829d2c/info/thumbnail/ago_downloaded.jpg",
+            "title": "SDG Photography Award",
+            "description": "Raising global awareness around the SDGs through the lens’ of photographers #SDGSxHIPA",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/f7e3f49fec1f491c84cb8b0d3635d0ba",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/f7e3f49fec1f491c84cb8b0d3635d0ba/info/thumbnail/thumbnail1598346016232.png",
+            "title": "Air Quality Monitoring",
+            "description": "Take a Deep Breath, We are Monitoring - This story map is about air quality monitoring and assessment in Abu Dhabi.  ",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/2262399f5a114c5d9e8cb5d04842a07b",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/2262399f5a114c5d9e8cb5d04842a07b/info/thumbnail/thumbnail1587446356936.png",
+            "title": "SDG School Awareness Campaign",
+            "description": "An initiative by the UAE National Committee on SDGs targeting students in the UAE",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/4bf068e511ce47de9445113cb2d07ad7",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/4bf068e511ce47de9445113cb2d07ad7/info/thumbnail/thumbnail1551356183775.png",
+            "title": "Protected Areas in the UAE",
+            "description": "Take a virtual tour of the United Arab Emirates' protected areas.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/17c1a095e72942db9ef2f44949681bb3",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/17c1a095e72942db9ef2f44949681bb3/info/thumbnail/thumbnail1551356833174.png",
+            "title": "Marine Turtles in the UAE",
+            "description": "Investigate the status of marine turtles in the United Arab Emirates in accordance with the International Union of Conservation of Nature's Red List.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/255739ec12634a82a74689b5dfc03247",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/255739ec12634a82a74689b5dfc03247/info/thumbnail/thumbnail1551357842395.png",
+            "title": "Marine and Terrestrials Mammals in the UAE",
+            "description": "Discover which terrestrial and marine species are under threat in the United Arab Emirates.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/fb71f2f385634c9d8fd9b794fe3cf52a",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/fb71f2f385634c9d8fd9b794fe3cf52a/info/thumbnail/thumbnail1551357457686.png",
+            "title": "Marine and Terrestrial Herps in the UAE",
+            "description": "This Story Map presents the UAE National Red List Status of Herpetofauna: amphibians and terrestrial reptiles, sea snakes and marine turtles.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/1c13a009d5f24f829ffeda78c9cfab00",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/1c13a009d5f24f829ffeda78c9cfab00/info/thumbnail/thumbnail1540040869264.png",
+            "title": "Blue Carbon Story Map",
+            "description": "GOAL 15: Life on Land",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/f3c89579d43f4fadaa8b4dc45736330b",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/f3c89579d43f4fadaa8b4dc45736330b/info/thumbnail/thumbnail1540040942383.png",
+            "title": "Coastal Vulnerability Index",
+            "description": "GOAL 13: Climate Action",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/1f1dfbf0902d466681123ac2ec9033fa",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/1f1dfbf0902d466681123ac2ec9033fa/info/thumbnail/thumbnail1539256255715.png",
+            "title": "Conserving Biodiversity: Birds of Abu Dhabi",
+            "description": "Birds of Abu Dhabi is a Story Map highlighting  Bird Conservation and Monitoring in Abu Dhabi.",
+            "buttonText": "View"
+        }
+    ]
+}

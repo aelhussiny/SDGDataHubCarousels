@@ -1,0 +1,99 @@
+{
+    "cards": [
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/760767423ba14d91bebe2ae210e8da65",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/760767423ba14d91bebe2ae210e8da65/info/thumbnail/thumbnail1658902274570.png",
+            "title": "SDGs in Action 2022",
+            "description": "As we reflect on the now, we are transforming the planet as global citizens, but there is more to be done!\\n\\nTogether we can ascend from the basecamp to the summit!",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/85c1da187b57408f8cb2b669f88a5ded",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/85c1da187b57408f8cb2b669f88a5ded/info/thumbnail/thumbnail1658905715058.png",
+            "title": "SDGs in Action 2022 at the World Government Summit",
+            "description": "The SDGs in Action 2022 at the World Government Summit will feature powerful dialogues and inspirational ideas aimed at encouraging the implementation of the SDGs and global action towards a better tomorrow",
+            "buttonText": "View"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/ee13f10d16744876b40757bcf735b74f",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/ee13f10d16744876b40757bcf735b74f/info/thumbnail/thumbnail1658905467007.png",
+            "title": "Together we are making a new world! To kick off Global Goals week",
+            "description": "Together we are making a new world! To kick off Global Goals week",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/2b04321a0cee43d1a13da3a7477feb7e",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/2b04321a0cee43d1a13da3a7477feb7e/info/thumbnail/thumbnail1658901012790.png",
+            "title": "UAE Second VNR Workshop",
+            "description": "In preparation of the UAE’s VNR 2022, this workshop brought together the UAE’s National Committee on SDGs to ideate and select top SDGs Initiatives, projects and policy to highlight the efforts of the UAE since 2018 across the 17 Goals.\\n",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/57dc5d620abe4a3d8a6d6bdba9af16b2",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/57dc5d620abe4a3d8a6d6bdba9af16b2/info/thumbnail/thumbnail1616484239740.png",
+            "title": "Sustainable Community Development",
+            "description": "H.E.  Hessa bint Essa Buhumaid, UAE Minister of Community Development, talking about the UAE Journey and government goals in creating a sustainable community. ",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/a75b27909c6b4b48acdb894a98346b3d",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/a75b27909c6b4b48acdb894a98346b3d/info/thumbnail/thumbnail1616483887186.png",
+            "title": "Gender Balance, a Top Priority for the UAE",
+            "description": "H.E. Mona Al Marri discussing the importance of gender balance to the UAE government and the different initiatives. ",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/dfef56b480f241e9861fc173182108eb",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/dfef56b480f241e9861fc173182108eb/info/thumbnail/thumbnail1616483034016.png",
+            "title": "Food Security in the UAE",
+            "description": "A dialogue with H.E. Mariam bint Mohammed Saeed Hareb Almheiri, Minister of State for Food and Water Security, discussing food security in the UAE. ",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/8708e13d84b646bea3f732a5013472eb",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/8708e13d84b646bea3f732a5013472eb/info/thumbnail/thumbnail1613018105713.png",
+            "title": "Jack Dangermond, the founder of Esri. Talks about the importance of the SDG data hub platform",
+            "description": "Jack Dangermond, the founder of Esri​, praises the importance of the SDG data hub platform and how the integration with the United Nations Website will help to create better understating for decision-makers.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/f0cf0bf8b4214f99b739f242054827d3",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/f0cf0bf8b4214f99b739f242054827d3/info/thumbnail/thumbnail1538663460098.png",
+            "title": "The Youth of Today, the Future of Generations",
+            "description": "HE Shamma bint Suhail Al Mazrui at word discussing the Youth engagement to SDGs within the UAE.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/38d070ffdb974e749175c45f52ba8c2d",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/38d070ffdb974e749175c45f52ba8c2d/info/thumbnail/thumbnail1538662481624.png",
+            "title": "UAE Ministers Take SDGs to Heart",
+            "description": "The United Arab Emirates and the Sustainable Development Goals. Have a look at what some of the ministers have to say about the SDGs in the UAE.  Excellence in implementation.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/d0f483dc88a34abebcfec2c6b8d8a2bb",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/d0f483dc88a34abebcfec2c6b8d8a2bb/info/thumbnail/thumbnail1538664298660.png",
+            "title": "Happiness and the SDGs",
+            "description": "HE Ohood bint Khalfan Al Roumi, UAE Minister of State for Happiness and Well-being, discuss SDGs and UAE initiatives to implement happiness across all sectors.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        },
+        {
+            "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/d4bb2711754045a8ba8a7001827df831",
+            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/d4bb2711754045a8ba8a7001827df831/info/thumbnail/thumbnail1538664172953.png",
+            "title": "A World Class Educational System",
+            "description": "HE Hussain bin Ibrahim Al Hammadi UAE Minister of Education discuss SDGs and UAE initiatives to implement SDG 4 quality education.",
+            "buttonText": "View",
+            "buttonType": "outline"
+        }
+    ]
+}
