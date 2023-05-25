@@ -24,7 +24,7 @@ if (configLocation) {
                         }')">
                             <img src="${cardData.image}">
                             <p class="title">${cardData.title}</p>
-                            <p class="desc">${cardData.description}</p>
+                            <p class="desc">${cardData.description.replace(/\\n/g,"<br/>")}</p>
                             <p class="ctabtn${
                                 cardData.buttonType == "outline"
                                     ? " outline"
