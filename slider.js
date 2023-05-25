@@ -4,7 +4,7 @@ if (configLocation) {
         if (data.cards) {
             let cardRow = null;
             data.cards.forEach((cardData, index) => {
-                if (index % (isMediumorLarger() ? 4 : 1) == 0) {
+                if (index % (isMediumorLarger() ? 3 : 1) == 0) {
                     cardRow = $("<div></div>")
                         .attr("class", "row cardrow")
                         .css("align-items", "center");
@@ -18,7 +18,7 @@ if (configLocation) {
                     );
                 }
                 cardRow.append(
-                    $("<div></div>").attr("class", "cardcol col-md-3").html(`
+                    $("<div></div>").attr("class", "cardcol col-md-4").html(`
                         <div class="arcgiscard" onclick="window.open('${
                             cardData.url
                         }')">
