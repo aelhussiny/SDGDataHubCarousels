@@ -126,11 +126,13 @@
             "description": "By DP World. The Global Education Programme is designed to instil awareness about the port operations and the value of trade while also addressing the school’s regular curriculum.",
             "buttonText": "Explore"
         },
-         {
+        {
             "url": "https://sdg-5-pledge-fcsa.hub.arcgis.com/",
             "image": "https://fcsa.maps.arcgis.com/sharing/rest/content/items/c08ed1b53f03452f834b6ec8e2820929/data",
             "title": "SDG 5 Gender Pledge",
             "description": "By the UAE Gender Balance Council. The pleadge  is a collaborative initiative between UAE Government (represented by the UAE Gender Balance Council and Federal Competitiveness and Statistics Centre) and the UAE Private Sector.",
             "buttonText": "Explore"
 
+        }
+    ]
 }
