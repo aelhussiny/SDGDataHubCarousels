@@ -15,6 +15,14 @@
             "description": "This data story seeks to capture patterns of growth in UAE’s green area since 1975.",
             "buttonText": "View",
             "buttonType": "outline"
+             },
+        {
+            "url": "https://storymaps.arcgis.com/stories/494609f35c494890bff34c025e875ef4",
+            "image": "https://fcsa.maps.arcgis.com/sharing/rest/content/items/2f5b88f90e7f4f6bb8d519c370256995/data",
+            "title": "Digital Voluntary SDG Review",
+            "description": "This data story showcases the UAE's journey in the SDGs and it preparation for the Voluntary National Review.",
+            "buttonText": "View",
+            "buttonType": "outline"
         },
         {
             "url": "https://sdgsuae-fcsa.opendata.arcgis.com/apps/1040601a6b454009bbd9a24c7f5ee654",
