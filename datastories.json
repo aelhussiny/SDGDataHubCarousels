@@ -110,14 +110,6 @@
             "title": "Conserving Biodiversity: Birds of Abu Dhabi",
             "description": "Birds of Abu Dhabi is a Story Map highlighting  Bird Conservation and Monitoring in Abu Dhabi.",
             "buttonText": "View"
-        },
-        {
-            "url": "https://google.com",
-            "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/1f1dfbf0902d466681123ac2ec9033fa/info/thumbnail/thumbnail1539256255715.png",
-            "title": "Test Card",
-            "description": "This is a sample description",
-            "buttonText": "Hello",
-            "buttonType": "outline"
         }
     ]
 }
