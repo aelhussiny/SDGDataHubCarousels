@@ -116,7 +116,7 @@
             "image": "https://esridubaioffice.maps.arcgis.com/sharing/rest/content/items/1f1dfbf0902d466681123ac2ec9033fa/info/thumbnail/thumbnail1539256255715.png",
             "title": "Test Card",
             "description": "This is a sample description",
-            "buttonText": "Hello"
+            "buttonText": "Hello",
             "buttonType": "outline"
         }
     ]
